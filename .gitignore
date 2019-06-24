@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# data
+fer2013.csv
+
 # Distribution / packaging
 .Python
 build/
